@@ -4,6 +4,7 @@
 
 .idea
 target
+*.json
 
 # Log file
 *.log
